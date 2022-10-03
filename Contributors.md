@@ -1743,5 +1743,6 @@
 - [Anuj Mishra](https://github.com/Anujmishra2005)
 - [Stevanus-Christian](https://github.com/Stevanus-Christian)
 - [Akkshat](https://github.com/Akkshat09)
+- [Parth Patel](https://github.com/the-helel)
 
 <!-- prettier-ignore-end -->
